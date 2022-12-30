@@ -1,0 +1,77 @@
+
+Create the account in the github and make the repo in that
+
+take the github url from that---- 
+
+git remote add origin https://github.com/Akashchandel27/Git-Github-.git
+
+git remote -- to check
+
+git remote -v
+
+git push -u origin main
+
+--------------------------------------------------------------------------------
+git status 
+
+git init --- to intitalized empty git repo
+
+git status --- to see the status of the file
+
+git add --a    git add -A
+
+git commit-m "first commit"
+--------------------------------------------------------------------------------
+
+git config --global user.name "AkashChandel27"
+
+git config --global user.email "akashchandel27@gmail.com"
+
+
+to check -- git config user.name
+
+to check -- git config user.email
+
+---------------------------------------------------------------------------------
+
+ls -- list of all the files in the particular folder
+
+ls -lart -- list of all the file including hidden folder also
+
+git add file name -- save the particular file in the folder
+
+---------------------------------------------------------------------------------
+Ajeeb se screen will come to commit the code 
+
+Enter :wq
+---------------------------------------------------------------------------------
+
+Create the account in the github and make the repo in that
+
+take the github url from that---- 
+
+git remote add origin https://github.com/Akashchandel27/Git-Github-.git
+
+git remote -- to check
+
+git remote -v
+
+---------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
