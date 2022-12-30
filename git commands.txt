@@ -1,4 +1,4 @@
-
+--------------------------------------GIT COMMANDS------------------------------------
 Create the account in the github and make the repo in that
 
 take the github url from that---- 
