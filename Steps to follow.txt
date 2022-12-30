@@ -1,0 +1,21 @@
+Open the git bash (where we have source folder is there)
+
+excute command
+git init // create empty git repo (one time)
+
+//connect local git repo to github repo
+git remote add origin
+https://github.com/Akashchandel27/Git-and-Github-.git
+
+git status // shows status of repo
+
+git add --A // adds files to stating area
+
+// before excuting first commit/////
+
+git config --global user.name "akashchandel27"
+git config --global user.email "akashchandel27@gmail.com"
+
+git commit -m "first commit" // to add files from stating area to local git repo.
+
+git push -u origin master // to add files from local git repo to remote github repo.
